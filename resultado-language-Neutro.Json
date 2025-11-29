@@ -1,0 +1,31 @@
+{
+    "documents": [
+        {
+            "id": "id__1347",
+            "sentiment": "neutral",
+            "confidenceScores": {
+                "positive": 0.04,
+                "neutral": 0.9,
+                "negative": 0.06
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.9,
+                        "negative": 0.06
+                    },
+                    "offset": 0,
+                    "length": 70,
+                    "text": "O pacote foi entregue ontem às 15h, conforme o prazo informado no site",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
